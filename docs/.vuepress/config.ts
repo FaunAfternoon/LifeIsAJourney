@@ -14,7 +14,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/LifeIsAJourney/',
   lang: 'zh-CN',
   title: '阿峰的碎碎念',
   description: '正经人谁写日记啊？',
